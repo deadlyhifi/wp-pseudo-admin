@@ -1,0 +1,16 @@
+{
+    "name"       : "deadlyhifi/wp-pseudo-admin",
+    "description": "Add a role, called Ådministrator, that gives clients just enough power.",
+    "homepage"   : "https://github.com/deadlyhifi/wp-pseudo-admin/",
+    "type"       : "wordpress-plugin",
+    "license"    : "GPL-2.0+",
+    "authors"    : [
+        {
+            "name"    : "Tom de Bruin",
+            "homepage": "http://deadlyhifi.com"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
